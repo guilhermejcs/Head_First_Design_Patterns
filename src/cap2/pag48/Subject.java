@@ -1,4 +1,4 @@
-package src.cap2.pag41;
+package src.cap2.pag48;
 
 public interface Subject {
     public void registerObserver(Observer o);
