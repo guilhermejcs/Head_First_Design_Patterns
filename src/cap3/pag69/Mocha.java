@@ -1,4 +1,4 @@
-package src.cap3;
+package src.cap3.pag69;
 
 public class Mocha extends CondimentDecorator {
     Beverage beverage;

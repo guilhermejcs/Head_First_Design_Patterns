@@ -1,4 +1,4 @@
-package src.cap3;
+package src.cap3.pag69;
 
 public class Whip extends CondimentDecorator {
     Beverage beverage;
